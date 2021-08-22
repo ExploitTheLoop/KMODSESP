@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BlackHawk</string>
+    <string name="project_name">Ayaaziii</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="bottom_string">Not Supported in Samsung Phones\nNot supported in theme modes\nUntick Themed mode in Erangle </string>
+    <string-array name="game_type">
+        <item>PUBG Global</item>
+        <item>PUBG KR</item>
+        <item>PUBG VNG</item>
+        <item>PUBG Taiwan</item>
+    </string-array>
+</resources>

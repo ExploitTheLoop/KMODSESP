@@ -1,0 +1,1 @@
+COPY %~dp0libs\armeabi-v7a\kdaemon %~dp0..\app\src\main\assets\kdaemon
